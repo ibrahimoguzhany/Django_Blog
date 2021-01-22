@@ -22,6 +22,6 @@ Create SuperUser
 python manage.py createsuperuser
 ```
 
-After all these steps , you can start testing and developing this project. 
+After all these steps , do whatever you want with it! 
 
 #### That is all! Happy Coding!
